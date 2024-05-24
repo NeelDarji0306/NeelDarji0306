@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeelDarji0306
-- 👀 I’m interested in developing web applications, solving problems of DSA
+- 👀 I’m interested in developing web applications
 - 💞️ I’m looking to collaborate on React/Angular with Node web applications
 - 📫 How to reach me - mail:neeldarji089@gmail.com
 - 😄 Pronouns: he/him
